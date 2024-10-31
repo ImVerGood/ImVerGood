@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImVerGood
+- 👋 Hi, I’m %Echo$
 - 👀 I’m interested in Web Design 
 - 🌱 I’m currently learning HTML
 - 😄 Pronouns: He/Him
